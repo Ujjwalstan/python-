@@ -1,0 +1,8 @@
+a = input("Enter your name here: ")
+print("My Name is",a)
+
+a = input("Enter first number:")
+b = input("Enter second number:")
+print(a + b)
+
+print(int(a) + int(b))
