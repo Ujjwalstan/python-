@@ -1,0 +1,24 @@
+a ="!!!!!Ujjwal!!!! !!!!!! Harry!"
+
+print(len(a))
+print(a.upper())
+print(a.lower())
+print(a.rstrip("!"))
+print(a.replace("Ujjwal","harry"))
+print(a.split(" "))
+
+blogheading = "introduction to Java scRipt"
+print(len(blogheading.capitalize()))
+print(len(blogheading.center(50)))
+
+print(a.count("Harry"))
+
+str1 = "welcome to the console!"
+print(str1.endswith("!"))
+print(str1.endswith("to",4,10))
+
+str1 = "he's an honest man, but he is not good person"
+print(str1.find("is"))
+#print(str2.find("hahshsh"))
+print(str1.index("is")
+
